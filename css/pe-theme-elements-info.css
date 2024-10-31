@@ -1,0 +1,27 @@
+.pe-theme-elements-info-code {
+	padding: 15px;
+	background: #fff;
+	display: flex;
+	align-items: center;
+	border: 1px solid #2e2e2e;
+	color: #2e2e2e;
+	font-size: 14px;
+	line-height: 1.5;
+	font-weight: normal;
+	text-align: left;
+	margin: 1em 0;
+	position: relative;
+	z-index: 99999;
+}
+
+.pe-theme-elements-info-code label {
+	font-weight: bold;
+}
+
+.pe-theme-elements-info-code .fa {
+	font-size: 50px;
+	vertical-align: middle;
+	padding: 0 20px 0 0;
+	color: red;
+	line-height: 1;
+}
